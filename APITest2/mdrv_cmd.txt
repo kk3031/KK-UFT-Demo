@@ -1,0 +1,1 @@
+-usr "C:\Users\demo\Desktop\KK UFT Demo\KK-UFT-Demo\APITest2\APITest2.usr" -msg_suffix_enable 0 -out "C:\Users\demo\Desktop\KK UFT Demo\KK-UFT-Demo\APITest2\" -drv_log_file "C:\Users\demo\Desktop\KK UFT Demo\KK-UFT-Demo\APITest2\mdrv.log" -cfg "C:\Users\demo\Desktop\KK UFT Demo\KK-UFT-Demo\APITest2\default.cfg" -product_name vugen
